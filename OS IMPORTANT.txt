@@ -1,0 +1,38 @@
+60% NUMERICAL 40% THEORY 
+
+MOD 1 
+- memory management, dma access big focus.
+- system calls (concept of system calls with help of diagram)
+- file management 
+- various category/types of operating system IN BREIF 
+- concepts of operating system 
+
+MOD 2 (THEORETICAL TOPICS MOSTLY) 
+-   concept of process, type of process 
+ semaphore ( reader, writer problem; philosopher dining problem ; producer consumer problem  code based solution )
+multithreading (prepare approach based questions) 
+
+MOD 3 (NUMERICALS)
+CPU SCHEDULING higher priority algorithm and shortest of first algorithm
+primitive priority siddling, and non primitive priority siddling 
+deadlocks (apply safety algorithms, find a safe state using banker's algorithm) 
+deadlock detection (numerical using bankers algorithm)
+resource allocation graph (find a safe sequence using that) and also if system is in deadlock state or not
+
+MOD 4 
+demand paging concept (focus on 3 page algorithms) PAGE REPLCEMENT ALGORITHM VERY IMPPP (ALL 3)
+numerical on fifo, and 2 page replacement algorithms 
+PAGING (concept)
+concept segmentation 
+page replacement algorithm 
+disc scheduling NUMERICAL
+
+MOD 5 
+concept of file system , buffering poling and compact 
+allocation methods 
+protection and securities, file protection and security
+cryptography
+defence mechanism 
+
+ASSIGNMENT QUESTIONS FOR PRACTICE
+CODE RELATED QUESTION ONLY FROM SEMAPHORE 
